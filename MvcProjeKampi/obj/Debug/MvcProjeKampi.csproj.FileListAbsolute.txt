@@ -77,3 +77,16 @@ C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProje
 C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CopyComplete
 C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.dll
 C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.pdb
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.dll
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.dll
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.dll
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.dll
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.dll
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.pdb
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.dll.config
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.pdb
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.dll.config
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.pdb
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.dll.config
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.xml
+C:\Users\ysg02\Desktop\MvcCalisma\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.xml
